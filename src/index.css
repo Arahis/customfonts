@@ -1,6 +1,6 @@
 @font-face {
   font-family: Sega;
-  src: url(./fonts/SEGA.TTF);
+  src: url(./fonts/SEGA.TTF) format("woff");
 }
 
 body {
