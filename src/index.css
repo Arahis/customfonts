@@ -1,11 +1,11 @@
 @font-face {
-  font-family: Branda;
-  src: url(./fonts/Branda-yolq.ttf);
+  font-family: Sega;
+  src: url(./fonts/SEGA.TTF);
 }
 
 body {
   margin: 0;
-  font-family: "Branda", sans-serif;
+  font-family: "Sega", sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
